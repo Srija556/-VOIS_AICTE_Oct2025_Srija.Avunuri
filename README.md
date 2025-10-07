@@ -84,7 +84,7 @@ Train model
 
 Visualize results and predictions
 
-🧩 Future Improvements
+ Future Improvements
 
 Incorporate geographical data (latitude, longitude) for better accuracy
 
